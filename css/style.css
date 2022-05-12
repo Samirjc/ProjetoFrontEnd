@@ -1,0 +1,14 @@
+header{
+    background-color: gray;
+}
+
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navegacao{
+    display: flex;
+    gap: 30px;
+}

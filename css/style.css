@@ -15,7 +15,9 @@
 }
 
 .sec-alternada{
-    margin: 10rem;
+    align-items: center;
+    margin: 8rem;
+    text-align: center;
 }
 
 .sec-alternada__img{

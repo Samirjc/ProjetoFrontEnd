@@ -1,0 +1,75 @@
+h1{
+   font-size: 3em;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h2{
+    font-size: 2em;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 3em;
+    background-color: rgba(166, 219, 18, 0.562);
+}
+
+p{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif; 
+    text-indent: 3em;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+p.apresentacao{
+font-size: 1.3em;
+}
+
+.legenda{
+
+    text-align: justify;
+    text-indent: 0;
+    font-family: Arial, Helvetica, sans-serif; 
+    margin-left: 10%;
+    margin-right: 10%;
+    width : 100%;
+    line-height: 140%;
+}
+.definicao{
+
+    text-align: justify;
+    text-indent: 0;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+
+ul{
+    font-size: 1.3em;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif; 
+    margin-left: 15%;
+    margin-right: 10%;
+}
+
+.fotoinicio{
+    margin-left: 2%;
+    margin-right: 22%;
+    width : 100%;
+    border-radius: 5%;
+     
+}
+
+.foto{
+    margin-left: 10%;
+    margin-right: 10%;
+    width : 100%;
+    border-radius: 5%;
+}
+
+/*@media (max-width: 1000px) {
+    .row, .navegacao {   
+      flex-direction: column;
+    }
+  }
+  */
+   

@@ -1,0 +1,82 @@
+
+h1{
+    color: white;
+    padding: 3%;
+    background-color:#496103cc;
+    font-size: 300%;
+    margin-top: 1em;
+    text-align: center;
+}
+h2{
+    background-color: #82AD00;
+    margin-top: 8%;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+h3{
+   background-color: rgba(165, 219, 18, 0.5);
+    margin-top: 3em;
+    font-size: 2em;
+    text-align: center;
+}
+
+#ponto{
+    margin-left: 5%;
+    font-size: 100%;
+}
+
+p{
+    text-indent: 3em;
+    text-align: justify; 
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.apresentacao{
+    font-size: 1.3em;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.definicao{
+    font-size: 1.3em;
+}
+
+.foto{
+    margin-top: 10em;
+    width: 100%;
+}
+
+#topo{
+    width: 100%;
+    margin-top: 0em;
+}
+
+ol{
+    margin-left: 7%;
+}
+
+a{
+    font-size: 1.2em;
+    color: green;
+    text-decoration: none;
+}
+
+.link{
+    color: green;
+    text-decoration: none;
+}
+.link:visited{
+    color: green;
+}
+.link:hover{
+    color: brown;
+    text-decoration: underline;
+    
+}
+
+@media (max-width: 1000px) {
+    .row, .navegacao {   
+      flex-direction: column;
+    }
+  }

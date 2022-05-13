@@ -23,7 +23,7 @@ h3{
 
 #ponto{
     margin-left: 5%;
-    font-size: 100%;
+    font-size: 110%;
 }
 
 p{
@@ -38,13 +38,25 @@ p{
     margin-left: 10%;
     margin-right: 10%;
 }
+
+.apresentacao1{
+    font-size: 1.3em;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
 .definicao{
     font-size: 1.3em;
+    font-family: Arial;
+    font-weight: normal;
 }
 
 .foto{
     margin-top: 10em;
     width: 100%;
+    border-radius: 2rem;
+    background-color:#82ad00c5 ;
 }
 
 #topo{
@@ -65,6 +77,7 @@ a{
 .link{
     color: green;
     text-decoration: none;
+    font-size: 1em;
 }
 .link:visited{
     color: green;

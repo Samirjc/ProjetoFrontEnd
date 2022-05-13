@@ -1,7 +1,3 @@
-header{
-   
-}
-
 .cabecalho{
     display: flex;
     justify-content: space-between;
@@ -16,4 +12,12 @@ header{
 .navegacao a{
     text-decoration: none;
     color: green;
+}
+
+section{
+    margin: 10rem;
+}
+
+section img{
+    border-radius: 2rem;
 }

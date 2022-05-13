@@ -4,20 +4,20 @@
     align-items: center;
 }
 
-.navegacao{
+.cabecalho__navegacao{
     display: flex;
     gap: 30px;
 
 }
-.navegacao a{
+.cabecalho__link{
     text-decoration: none;
     color: green;
 }
 
-section{
+.sec-alternada{
     margin: 10rem;
 }
 
-section img{
+.sec-alternada__img{
     border-radius: 2rem;
 }

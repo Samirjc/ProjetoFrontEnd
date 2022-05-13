@@ -1,5 +1,5 @@
 header{
-    background-color: gray;
+   
 }
 
 .cabecalho{
@@ -11,4 +11,9 @@ header{
 .navegacao{
     display: flex;
     gap: 30px;
+
+}
+.navegacao a{
+    text-decoration: none;
+    color: green;
 }

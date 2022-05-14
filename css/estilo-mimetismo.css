@@ -1,0 +1,103 @@
+
+h1{
+    color: white;
+    padding: 3%;
+    background-color:#496103cc;
+    font-size: 300%;
+    margin-top: 1em;
+    text-align: center;
+}
+h2{
+    background-color: #82AD00;
+    margin-top: 8%;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+h3{
+   background-color: rgba(165, 219, 18, 0.5);
+    margin-top: 3em;
+    font-size: 2em;
+    text-align: center;
+}
+
+#ponto{
+    margin-left: 5%;
+<<<<<<< Updated upstream:css/estilo-mimetismo.css
+    font-size: 110%;
+=======
+    font-size: 120%;
+>>>>>>> Stashed changes:css/estilo-conteudo.css
+}
+
+p{
+    text-indent: 3em;
+    text-align: justify; 
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.apresentacao{
+    font-size: 1.3em;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.apresentacao1{
+    font-size: 1.3em;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+.definicao{
+    font-size: 1.3em;
+    font-family: Arial;
+    font-weight: normal;
+}
+
+.foto{
+    margin-top: 10em;
+    width: 100%;
+<<<<<<< Updated upstream:css/estilo-mimetismo.css
+    border-radius: 2rem;
+    background-color:#82ad00c5 ;
+=======
+    border-radious: 1em
+>>>>>>> Stashed changes:css/estilo-conteudo.css
+}
+
+#topo{
+    width: 100%;
+    margin-top: 0em;
+}
+
+ol{
+    margin-left: 7%;
+}
+
+a{
+    font-size: 1.2em;
+    color: green;
+    text-decoration: none;
+}
+
+.link{
+    color: green;
+    text-decoration: none;
+    font-size: 1em;
+}
+.link:visited{
+    color: green;
+}
+.link:hover{
+    color: brown;
+    text-decoration: underline;
+    
+}
+
+@media (max-width: 1000px) {
+    .row, .navegacao {   
+      flex-direction: column;
+    }
+  }

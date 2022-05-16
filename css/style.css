@@ -41,4 +41,132 @@ a.btn-primary:hover{
     padding-top: 12px;
 }
 
+.botao_voltar{
+    margin-left: 8.6%;
+    margin-bottom: 0.2%;
+}
 
+.quemsomos{
+    color: white;
+    padding: 3%;
+    background-color:#496103cc;
+    font-size: 300%;
+    margin-top: 1em;
+    text-align: center;
+}
+.img-quemsomos{
+    width: 100%;
+}
+
+.idea{
+    color: rgb(10, 10, 10);
+    padding: 3%;
+    background-position: 4%;
+    font-size: 220%;
+    margin-top: 1em;
+    text-align: justify;
+}
+
+#equipe{
+    color: rgb(10, 10, 10);
+    padding: 3%;
+    background-color:#496103cc;
+    background-position: 4%;
+    font-size: 300%;
+    margin-top: 1em;
+    text-align: center;
+}
+
+.sec-img{
+    background-color:rgb(200, 223, 224);
+    border-radius: 10%;
+    border-color: black;
+    border-style: double;
+}
+
+.sec-altavatar__img{
+    margin-top: 0.2em;
+    border-radius: 25%;
+    margin-bottom: 0.2em;
+}
+
+.sec-altavatar__img5{
+    margin-top: 0.2em;
+    border-radius: 25%;
+    margin-bottom: 0.2em;
+}
+
+#colab1{
+    margin-top: 5%;
+    color: #19874a;
+    font-weight: 850;
+    margin-left: 26%;
+}
+
+.sob_1{
+    text-align: justify;
+    color: #19874a;
+    font-size: large;
+    margin-right: 2%;
+}
+
+#colab2{
+    margin-top: 5%;
+    color: #19874a;
+    font-weight: 850;
+    margin-left: 45%;
+}
+
+.sob_2{
+    text-align: justify;
+    color: #19874a;
+    font-size: large;
+    margin-left: 35%;
+}
+
+
+#colab3{
+    margin-top: 5%;
+    color: #19874a;
+    font-weight: 850;
+    margin-left: 26%;
+}
+
+.sob_3{
+    text-align: justify;
+    color: #19874a;
+    font-size: large;
+    margin-right: 2%;
+}
+
+
+
+#colab4{
+    margin-top: 5%;
+    color: #19874a;
+    font-weight: 850;
+    margin-left: 45%;
+}
+
+.sob_4{
+    text-align: justify;
+    color: #19874a;
+    font-size: large;
+    margin-left: 35%;
+}
+
+
+
+#colab5{
+    margin-top: 5%;
+    color: #19874a;
+    font-weight: 850;
+    margin-left: 26%;
+}
+
+.sob_5{
+    text-align: justify;
+    color: #19874a;
+    font-size: large;
+    margin-right: 2%;
+}

@@ -23,11 +23,7 @@ h3{
 
 #ponto{
     margin-left: 5%;
-<<<<<<< Updated upstream:css/estilo-mimetismo.css
     font-size: 110%;
-=======
-    font-size: 120%;
->>>>>>> Stashed changes:css/estilo-conteudo.css
 }
 
 p{
@@ -59,12 +55,8 @@ p{
 .foto{
     margin-top: 10em;
     width: 100%;
-<<<<<<< Updated upstream:css/estilo-mimetismo.css
     border-radius: 2rem;
     background-color:#82ad00c5 ;
-=======
-    border-radious: 1em
->>>>>>> Stashed changes:css/estilo-conteudo.css
 }
 
 #topo{
@@ -100,4 +92,4 @@ a{
     .row, .navegacao {   
       flex-direction: column;
     }
-  }
+}
